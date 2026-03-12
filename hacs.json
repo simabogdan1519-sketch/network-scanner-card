@@ -1,0 +1,7 @@
+{
+  "name": "Network Scanner Card",
+  "description": "A beautiful Lovelace card for the Network Scanner integration. View, filter, rename and assign types to all devices on your network — directly from the dashboard.",
+  "render_readme": true,
+  "content_in_root": true,
+  "filename": "network-scanner-card.js"
+}
